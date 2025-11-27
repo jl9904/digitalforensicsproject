@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\s550715\AppData\Local\Temp\Autopsy\joworkusbproject_20251126_212504\Temp\RecentActivity\3-Autopsy_PF_DB.db3_1
+DB file is  C:\Users\s550715\Documents\GitHub\digitalforensicsproject\JoWorkUSBProject\ModuleOutput\prefetch\3-Autopsy_PF_DB.db3

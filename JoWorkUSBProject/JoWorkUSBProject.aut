@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2025/11/26 21:25:04 (CST)</CreatedDate>
+  <ModifiedDate>2025/11/26 21:25:12 (CST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>joworkusbproject_20251126_212504</Name>
+    <DisplayName>JoWorkUSBProject</DisplayName>
+    <Number>4</Number>
+    <Examiner>Jaden</Examiner>
+    <ExaminerPhone>555-555-5555</ExaminerPhone>
+    <ExaminerEmail>s550715@nwmissouri.edu</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
