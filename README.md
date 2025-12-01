@@ -28,4 +28,5 @@ I absolutely recommend Autopsy as a tool as it is a free tool to analyze disks/v
 
 Autopsy proved reliable, efficient, and well-suited for this investigation.
 
-In conclusion, the analyzed files are in the folders here and screenshots capturing various steps throughout the process are in the Screenshots folder.
+In conclusion, the analyzed files are in the folders here and screenshots capturing various steps throughout the process are in the Screenshots folder. And check out the [report](https://github.com/jl9904/digitalforensicsproject/tree/main/JoWorkUSBProject/Reports/JoWorkUSBProject%20HTML%20Report%2011-30-2025-20-54-12
+) with the important email files. 
